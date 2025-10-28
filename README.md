@@ -84,4 +84,3 @@ This option appears only if certificate-based authentication is supported and a 
 1. Open the Company Portal app.
 2. Enter the email associated with your school or work account and select **Next**.
 3. Choose Sign in with a certificate.
-4. Tap **Continue** to confirm the certificate.

@@ -82,4 +82,3 @@ For optimal experience, follow the sign-in method recommended or required by you
 This option appears only if certificate-based authentication is supported and a certificate is available.
 
 1. Open the Company Portal app
-2. Enter the email associated with your school or work account and select Next

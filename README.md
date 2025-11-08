@@ -72,7 +72,7 @@ For optimal experience, follow the sign-in method recommended or required by you
 
 ### Sign in with school or work account
 
-1. Open the app and tap **Sign In**.
+1. Launch the app and select **Sign In**.
 2. Enter your work or school email and select **Next**.
 3. Enter your password and click **Sign In**.
 4. Wait while the app validates your credentials. Once verified, you will gain access to the app and your organization’s resources.

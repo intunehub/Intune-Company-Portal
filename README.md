@@ -76,3 +76,5 @@ For optimal experience, follow the sign-in method recommended or required by you
 2. Enter your work or school email and select **Next**.
 3. Enter your password and click **Sign In**.
 4. Your credentials are being verified. You will be granted access to the application and your organization's resources upon successful validation.
+5. If prompted, complete any additional security verification, such as **multi-factor authentication** (MFA).
+6. Once signed in, you can **access your dashboard and linked organizational services**.

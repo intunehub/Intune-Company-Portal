@@ -72,4 +72,3 @@ For optimal experience, follow the sign-in method recommended or required by you
 1. Launch the app and select **Sign In**.
 2. Enter your work or school email and select **Next**.
 3. Your credentials are being verified. You will be granted access to the application and your organization's resources upon successful validation.
-4. If prompted, complete any additional security verification, such as multi-factor authentication (MFA).

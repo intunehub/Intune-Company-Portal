@@ -70,4 +70,3 @@ For optimal experience, follow the sign-in method recommended or required by you
 ### Sign in with school or work account
 
 1. Launch the app and select **Sign In**.
-2. Enter your work or school email and select Next.
